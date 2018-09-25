@@ -1,0 +1,26 @@
+_repo: Freiluftleben_57367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Fridyof
+    - Nansen, Frityof
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+description: ''
+gutenberg_issued: '2018-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57367'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Freiluftleben
+url: http://www.gutenberg.org/ebooks/57367
